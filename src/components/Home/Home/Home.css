@@ -1,0 +1,17 @@
+.home {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.home-events {
+  flex-basis: 40%;
+}
+
+
+@media only screen and (min-device-width: 200px) and (max-device-width: 600px) {
+  .home {
+    flex-direction: column;
+    justify-content: center;
+  }
+}

@@ -1,0 +1,10 @@
+.event-details {
+  margin-left: 10%;
+}
+
+.event-details-button {
+  margin: 1rem;
+  height: 2rem;
+  background: #428bca;
+  color: #fff;
+}
